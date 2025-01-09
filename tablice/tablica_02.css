@@ -1,0 +1,10 @@
+table, td, th{
+    height: 30px;
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+    border-collapse: collapse;
+    text-align: right;
+    vert-align: bottom;
+    horiz-align: right;
+}

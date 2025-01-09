@@ -1,0 +1,8 @@
+tr:hover{
+    background-color: lightgray;
+}
+td:hover{background-color: grey
+}
+table, td, th{ border-width: 5px;
+    border-color: black;
+    border-style: solid;}
