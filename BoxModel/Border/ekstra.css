@@ -1,0 +1,15 @@
+.p1{
+    border: 5px solid red;
+    background-color: yellow;
+    margin: auto;
+}
+
+.p2{
+    border: 5px solid blue;
+    margin: 20px
+}
+
+.p3{
+    border: 10px solid green;
+    background-color:gray;
+}
